@@ -1,5 +1,6 @@
 #pragma once
 #include "LRUCache.hpp"
+using namespace ssk;
 
 LRUCache::LRUCache(size_t capacity) : capacity(capacity) {}
 

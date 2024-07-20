@@ -3,7 +3,7 @@
 #include "../src/LRUCacheT.hpp"
 
 TEST(LRUCacheTest, BasicOperations) {
-    LRUCacheT<int, int> cache(2);
+    ssk::LRUCacheT<int, int> cache(2);
     cache.put(1, 1);
     cache.put(2, 2);
     ASSERT_EQ(cache.get(1), 1); 

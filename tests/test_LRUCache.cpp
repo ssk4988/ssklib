@@ -2,7 +2,7 @@
 #include "../src/LRUCache.hpp"
 
 TEST(LRUCacheTest, BasicOperations) {
-    LRUCache cache(2);
+    ssk::LRUCache cache(2);
     cache.put(1, 1);
     cache.put(2, 2);
     ASSERT_EQ(cache.get(1), 1); 
