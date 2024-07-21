@@ -28,3 +28,4 @@ endmacro()
 
 package_add_test(test_LRUCache test_LRUCache.cpp)
 package_add_test(test_LRUCacheT test_LRUCacheT.cpp)
+package_add_test(test_deque test_deque.cpp)
