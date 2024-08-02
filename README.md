@@ -4,7 +4,7 @@ This is a C++ library implementing several different classic data structures. It
 Implementations:
 - [x] LRU Cache
 - [x] Templated LRU Cache
-- [ ] Deque
+- [ ] Deque (In Progress)
 - [ ] Smart Pointer
 - [ ] Vector
 - [ ] Bitset
