@@ -5,6 +5,7 @@ Implementations:
 - [x] LRU Cache
 - [x] Templated LRU Cache
 - [ ] Deque (In Progress)
+- [ ] Pair/Tuple
 - [ ] Smart Pointer
 - [ ] Vector
 - [ ] Bitset
